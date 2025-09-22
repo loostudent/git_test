@@ -1,1 +1,1 @@
-i am doing changes in hello_git.txt to test it
+i am doing changes in hello_git.txt to test it. Now i am also changing some of the file content here. 
